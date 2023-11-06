@@ -11,6 +11,7 @@ namespace Polymorphism
         static void Main(string[] args)
         {
             runApp();
+            Console.ReadLine();
         }
 
         public static void runApp()
